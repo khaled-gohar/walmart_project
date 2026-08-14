@@ -49,3 +49,6 @@ logs/
 uv.lock
 poetry.lock
 Pipfile.lock
+
+
+*.ipynb
