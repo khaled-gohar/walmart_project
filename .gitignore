@@ -41,3 +41,11 @@ airflow/dags/__pycache__/
 target/
 dbt_packages/
 logs/
+
+# Python version management
+.python-version
+
+# Lock files (optional - remove if you want to track dependencies)
+uv.lock
+poetry.lock
+Pipfile.lock
